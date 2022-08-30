@@ -1,0 +1,5 @@
+[ALL]
+1.1.1.1     hostname=FW-1     
+2.2.2.2     hostname=FW-2
+3.3.3.3     hostname=FW-3
+4.4.4.4     hostname=FW-4
