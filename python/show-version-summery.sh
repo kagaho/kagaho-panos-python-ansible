@@ -4,5 +4,6 @@ import panos
 # from panos import network
 from panos.firewall import Firewall
 
-fw = Firewall("1.2.3.4", "admin", "admin)
+fw = Firewall("1.2.3.4", "admin", "admin")
 version = fw.refresh_system_info()
+print(version)
